@@ -2,5 +2,10 @@
     "title": "ProjArt - TGV",
     "html": {
         "theme": "daux-navy"
+    },
+    "languages": {
+        "en": "English",
+        "fr": "Français"
     }
+
 }
