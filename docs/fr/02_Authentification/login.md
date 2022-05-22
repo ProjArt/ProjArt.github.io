@@ -18,7 +18,7 @@
         "token" : XXXXXX
     }
 
-### Errors
+## Erreurs
 
  `401` : Pas authorisé
 
