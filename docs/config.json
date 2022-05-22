@@ -1,6 +1,8 @@
 {
     "title": "ProjArt - TGV",
+    "themes_directory": "node_modules/daux-api-docs-theme",
     "html": {
-        "theme": "daux-green"
+        "theme": "daux-navy",
+        "float": false
     }
 }
