@@ -1,1 +1,1 @@
-load_search_index({"pages":[{"title":"ProjArt - TGV","text":"","tags":"","url":"index.html"},{"title":"test","text":"#test","tags":"","url":"Features\/test.html"}]});
+load_search_index({"pages":[{"title":"ProjArt - TGV","text":"","tags":"","url":"index.html"},{"title":"test","text":"#test","tags":"","url":"Features\/test.html"},{"title":"test2","text":"#test2","tags":"","url":"Features\/test2.html"}]});
