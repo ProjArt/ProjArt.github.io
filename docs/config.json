@@ -6,11 +6,5 @@
         "theme": "daux-navy",
         "auto_landing": false
 
-    },
-
-    "languages": {
-        "en": "English",
-        "fr": "Français"
     }
-
 }
