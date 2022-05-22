@@ -3,6 +3,8 @@
     "html": {
         "theme": "daux-navy"
     },
+    "themes_directory": "node_modules/daux-api-docs-theme",
+
     "languages": {
         "en": "English",
         "fr": "Français"
