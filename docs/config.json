@@ -4,7 +4,7 @@
 
     "html": {
         "theme": "daux-navy",
-        "auto_landing": false
-
+        "auto_landing": false,
+        "auto_toc": true
     }
 }
