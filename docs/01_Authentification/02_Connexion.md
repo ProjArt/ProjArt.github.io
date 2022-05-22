@@ -1,5 +1,3 @@
-# Connexion
-
 ## Requête
 
 `POST /login`

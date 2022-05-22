@@ -1,5 +1,3 @@
-# Inscription
-
 ## Requête
 
 `POST /register`

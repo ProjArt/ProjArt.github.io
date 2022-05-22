@@ -1,5 +1,3 @@
-# Obtenir l'utilisateur
-
 ## Requête
 
 `GET /me`

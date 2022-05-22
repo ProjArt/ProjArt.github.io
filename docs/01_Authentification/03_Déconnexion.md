@@ -1,5 +1,3 @@
-# Connexion
-
 ## Requête
 
 `GET /logout`
