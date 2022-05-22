@@ -26,7 +26,7 @@
 
 ## Erreurs
 
-> `404` : Pas trouvé
+> `401` : Pas authentifier
 
 ```javascript
 
