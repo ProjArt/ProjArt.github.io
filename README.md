@@ -15,6 +15,8 @@
 
 ```daux generate ```
 
+- Rester sur la branch MAIN
+
 - Publier le dossier static sur la branch gh-pages
 
 ```git add . && git commit -m 'update' && git subtree push --prefix static origin gh-pages ```
