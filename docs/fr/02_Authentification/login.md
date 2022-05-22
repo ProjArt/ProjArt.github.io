@@ -1,7 +1,7 @@
 
 # login
 
-### Requête
+## Requête
 
 `POST /login`
 
@@ -12,7 +12,7 @@
         "password" : XXX
     }
 
-### Réponse
+## Réponse
 
     {
         "token" : XXXXXX
