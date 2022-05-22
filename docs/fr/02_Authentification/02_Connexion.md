@@ -27,4 +27,4 @@
 
 ## Erreurs
 
-`401` : Pas autorisé
+> `401` : Pas autorisé

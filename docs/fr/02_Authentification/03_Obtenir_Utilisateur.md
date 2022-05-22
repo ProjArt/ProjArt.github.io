@@ -19,4 +19,4 @@
 
 ## Erreurs
 
-`404` : Pas trouvé
+> `404` : Pas trouvé
