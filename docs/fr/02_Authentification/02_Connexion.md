@@ -1,4 +1,3 @@
-
 # login
 
 ## Requête
@@ -7,20 +6,21 @@
 
 ## Corps
 
+```javascript
     {
-        "username" : XXX,
-        "password" : XXX
+        "username": "XXXXX",
+        "password": "XXXXX"
     }
+```
 
 ## Réponse
 
+```javascript
     {
-        "token" : XXXXXX
+        "token": "XXXXX"
     }
-
+```
 
 ## Erreurs
 
 `401` : Pas autorisé
-
-
