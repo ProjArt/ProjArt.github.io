@@ -3,7 +3,9 @@
     "tagline": "Documentation pour l'application ProjArt - TGV",
 
     "html": {
-        "theme": "daux-navy"
+        "theme": "daux-navy",
+        "auto_landing": false
+
     },
 
     "languages": {
