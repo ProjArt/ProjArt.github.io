@@ -7,20 +7,24 @@
 ## Corps
 
 ```javascript
+    
     {
         "username": "XXXXX",
         "password": "XXXXX"
     }
+
 ```
 
 ## Réponse
 
 ```javascript
+    
     {
         "token": "XXXXX"
     }
+    
 ```
 
-## Erreurs
+## Erreurs
 
 `401` : Pas autorisé
