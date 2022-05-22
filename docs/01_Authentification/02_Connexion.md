@@ -7,7 +7,7 @@
 ## Corps
 
 ```javascript
-    
+
     {
         "username": "XXXXX",
         "password": "XXXXX"
@@ -18,11 +18,16 @@
 ## Réponse
 
 ```javascript
-    
-    {
-        "token": "XXXXX"
+
+   {
+        "success": true,
+        "message":"Login validated",
+        "data": {
+           "access_token": "XXXXX",
+           "token_type": "Bearer"
+        }
     }
-    
+
 ```
 
 ## Erreurs

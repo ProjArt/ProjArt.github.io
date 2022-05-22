@@ -6,3 +6,12 @@ Le back-end utilise le framework Laravel et respecte le mieux possible les conve
 
 > L'url de base est https://projart-tgv.pingouin.heig-vd.ch/api
 
+> Pour toutes les requêtes, ajouter le header
+
+```
+
+    {
+        "Accept" : "application/json"
+    }
+
+```

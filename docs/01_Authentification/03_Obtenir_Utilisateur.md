@@ -10,11 +10,15 @@
 ```javascript
     
     {
-        { 
-            "id": 1,
-            "username": "XXXXXX",
-            "created_at": "2022-05-22T09:21:26.000000Z",
-            "updated_at": "2022-05-22T09:21:26.000000Z",
+        "success":true,
+        "message":"User found",
+        "data":{
+            "user": {
+                "username": "XXXXX",
+                "updated_at": "2022-05-22T15:10:33.000000Z",
+                "created_at": "2022-05-22T15:10:33.000000Z",
+                "id": 8
+            }
         }
     }
     
