@@ -2,17 +2,7 @@
 
 ## Requête
 
-`POST /logout`
-
-## Corps
-
-```javascript
-
-    {
-        
-    }
-
-```
+`GET /logout`
 
 ## Réponse
 
