@@ -1,11 +1,11 @@
-# Obtenir l'utilisateur
+# Get user
 
-## Requête
+## Request
 
 `GET /me`
 
 
-## Réponse
+## Response
 
 ```javascript
     
@@ -20,6 +20,6 @@
     
 ```
 
-## Erreurs
+## Errors
 
-> `404` : Pas trouvé
+> `404` : Not found
