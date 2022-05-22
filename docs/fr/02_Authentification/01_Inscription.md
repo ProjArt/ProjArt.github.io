@@ -3,7 +3,7 @@
 
 ## Requête
 
-`POST /login`
+`POST /register`
 
 ## Corps
 
@@ -20,6 +20,6 @@
 
 ## Erreurs
 
- `401` : Pas authorisé
+ `401` : Pas autorisé
 
 
