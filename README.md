@@ -22,3 +22,8 @@
 - Publier ses changements sur la branch main
 
 ```git push ```
+
+
+## Attention
+
+- La mise à jour du site prend 1-2 minutes. Ne pas s'affoler.
