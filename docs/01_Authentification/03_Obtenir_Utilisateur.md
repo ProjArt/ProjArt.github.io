@@ -32,7 +32,8 @@
 
     { 
         "success": false,
-        "message": "Unauthenticated"
+        "message": "Unauthenticated",
+        "data" : []
     }
 
 ```

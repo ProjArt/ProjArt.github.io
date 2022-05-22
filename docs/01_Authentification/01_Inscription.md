@@ -38,7 +38,8 @@
 
     {
        "success": false,
-       "message": "The XXXX field is required."
+       "message": "The XXXX field is required.",
+       "data" : []
     }
-    
+
 ```

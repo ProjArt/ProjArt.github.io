@@ -38,7 +38,8 @@
 
     {
         "success": false,
-        "message": "Invalid login details"
+        "message": "Invalid login details",
+        "data" : []
     }
 
 ```
