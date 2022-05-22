@@ -1,6 +1,5 @@
-# Authentification
 
-## login
+# login
 
 ### Requête
 
@@ -24,16 +23,3 @@
  `401` : Pas authorisé
 
 
-
-
-## Register
-
-### Request 
-
-`POST /register`
-
-### Response
-
-{
-
-}
