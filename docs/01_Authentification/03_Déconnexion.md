@@ -9,9 +9,7 @@
    {
         "success": true,
         "message":"Logout succeed",
-        "data": {
-           
-        }
+        "data": []
     }
 
 ```
