@@ -110,8 +110,15 @@
 </code></pre>
 <h2><a id="erreurs" href="#erreurs" class="Permalink" aria-hidden="true" title="Permalink">#</a>Erreurs</h2>
 <blockquote>
-<p><code>401</code> : Pas autorisé</p>
+<p><code>422</code> : Unprocessable Entity</p>
 </blockquote>
+<pre><code class="hljs javascript">
+    {
+       <span class="hljs-string">"success"</span>: <span class="hljs-literal">false</span>,
+       <span class="hljs-string">"message"</span>: <span class="hljs-string">"The XXXX field is required."</span>
+    }
+    
+</code></pre>
     </div>
 
         <nav>

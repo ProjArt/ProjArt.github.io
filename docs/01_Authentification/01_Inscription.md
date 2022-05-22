@@ -32,4 +32,13 @@
 
 ## Erreurs
 
-> `401` : Pas autorisé
+> `422` : Unprocessable Entity
+
+```javascript
+
+    {
+       "success": false,
+       "message": "The XXXX field is required."
+    }
+    
+```

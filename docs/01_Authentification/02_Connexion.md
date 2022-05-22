@@ -33,3 +33,12 @@
 ## Erreurs
 
 > `401` : Pas autorisé
+
+```javascript
+
+    {
+        "success": false,
+        "message": "Invalid login details"
+    }
+
+```

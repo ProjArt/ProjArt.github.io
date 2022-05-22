@@ -27,3 +27,12 @@
 ## Erreurs
 
 > `404` : Pas trouvé
+
+```javascript
+
+    { 
+        "success": false,
+        "message": "Unauthenticated"
+    }
+
+```
