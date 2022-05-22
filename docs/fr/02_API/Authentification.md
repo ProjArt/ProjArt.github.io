@@ -2,15 +2,26 @@
 
 ## login
 
-### Request
+### Requête
 
 `POST /login`
 
-### Response
+## Corps
 
     {
-
+        "username" : XXX,
+        "password" : XXX
     }
+
+### Réponse
+
+    {
+        "token" : XXXXXX
+    }
+
+### Errors
+
+ `401` : Pas authorisé
 
 
 

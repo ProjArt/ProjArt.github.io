@@ -87,17 +87,25 @@
     <div class="s-content">
         <h1><a id="authentification" href="#authentification" class="Permalink" aria-hidden="true" title="Permalink">#</a>Authentification</h1>
 <h2><a id="login" href="#login" class="Permalink" aria-hidden="true" title="Permalink">#</a>login</h2>
-<h3><a id="request" href="#request" class="Permalink" aria-hidden="true" title="Permalink">#</a>Request</h3>
+<h3><a id="requete" href="#requete" class="Permalink" aria-hidden="true" title="Permalink">#</a>Requête</h3>
 <p><code>POST /login</code></p>
-<h3><a id="response" href="#response" class="Permalink" aria-hidden="true" title="Permalink">#</a>Response</h3>
+<h2><a id="corps" href="#corps" class="Permalink" aria-hidden="true" title="Permalink">#</a>Corps</h2>
 <pre><code>{
-
+    &quot;username&quot; : XXX,
+    &quot;password&quot; : XXX
 }
 </code></pre>
+<h3><a id="reponse" href="#reponse" class="Permalink" aria-hidden="true" title="Permalink">#</a>Réponse</h3>
+<pre><code>{
+    &quot;token&quot; : XXXXXX
+}
+</code></pre>
+<p>### Errors</p>
+<p><code>401</code> : Pas authorisé</p>
 <h2><a id="register" href="#register" class="Permalink" aria-hidden="true" title="Permalink">#</a>Register</h2>
-<h3><a id="request-1" href="#request-1" class="Permalink" aria-hidden="true" title="Permalink">#</a>Request</h3>
+<h3><a id="request" href="#request" class="Permalink" aria-hidden="true" title="Permalink">#</a>Request</h3>
 <p><code>POST /register</code></p>
-<h3><a id="response-1" href="#response-1" class="Permalink" aria-hidden="true" title="Permalink">#</a>Response</h3>
+<h3><a id="response" href="#response" class="Permalink" aria-hidden="true" title="Permalink">#</a>Response</h3>
 <p>{</p>
 <p>}</p>
     </div>
