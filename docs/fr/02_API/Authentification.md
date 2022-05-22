@@ -12,12 +12,17 @@ Authentification
 
     }
 
+
+
+
 ## Register
+
+### Request 
 
 `POST /register`
 
 ### Response
 
 {
-    
+
 }
