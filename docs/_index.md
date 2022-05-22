@@ -1,4 +1,4 @@
-## Commencer
+## Bienvenue
 
 Voici la documentation pour communiquer avec le back-end de l'application ProjArt - TGV
 
