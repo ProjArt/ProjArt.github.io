@@ -1,0 +1,11 @@
+{
+  "commands": [
+    {
+      "command": "terminals.runTerminalByName",
+      "text": "$(repo-forked) Upload Static",
+      "tooltip": "Upload Static",
+      "arguments": ["UploadStatic"],
+      "color": "#FFCC00"
+    }
+  ]
+}

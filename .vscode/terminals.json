@@ -1,0 +1,16 @@
+{
+    "autorun": false,
+    "terminals": [
+
+        {
+            "name": "UploadStatic",
+            "open": true,
+            "onlySingle": true,
+            "commands": [
+                "git add static ",
+                "git commit -m auto",
+                "git subtree push --prefix static origin gh-pages"
+            ]
+        }
+    ]
+}
