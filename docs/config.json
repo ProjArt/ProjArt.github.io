@@ -1,5 +1,6 @@
 {
     "title": "ProjArt - TGV",
-
-    "html": { "theme": "daux-green" }
+    "html": {
+        "theme": "daux-green"
+    }
 }
