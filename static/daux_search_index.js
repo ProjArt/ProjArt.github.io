@@ -1,1 +1,0 @@
-load_search_index({"pages":[{"title":"test started","text":"#Getting Started","tags":"","url":"en\/Getting_Started\/test_started.html"}]});
