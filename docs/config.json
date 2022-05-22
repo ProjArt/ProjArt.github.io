@@ -1,7 +1,7 @@
 {
     "title": "ProjArt - TGV",
     "tagline": "Documentation pour l'application ProjArt - TGV",
-
+    "language": "fr",
     "html": {
         "theme": "daux-red",
         "auto_landing": false,
