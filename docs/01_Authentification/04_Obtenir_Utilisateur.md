@@ -2,7 +2,6 @@
 
 `GET /me`
 
-
 ## Réponse
 
 ```javascript
