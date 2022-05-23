@@ -10,7 +10,7 @@
     
     {
         "success":true,
-        "message":"Horaires fetched",
+        "message":"Marks fetched",
         "data":[]
     }
     
