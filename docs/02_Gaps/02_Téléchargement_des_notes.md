@@ -1,8 +1,6 @@
 ## Requête
 
-`GET /fetch/gaps/marks`
-
-
+`GET /update/gaps/marks`
 
 ## Réponse
 

@@ -1,6 +1,6 @@
 ## Requête
 
-`GET /fetch/gaps/events`
+`GET /update/gaps/events`
 
 ## Réponse
 
